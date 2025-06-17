@@ -67,5 +67,3 @@ While this project implements a basic single-cycle version, real-world MIPS proc
 - See [MIPS.pdf](./MIPS.pdf) — This was our CS224: Hardware Lab course slide.
 
 ---
-
-Feel free to contribute or suggest improvements!
